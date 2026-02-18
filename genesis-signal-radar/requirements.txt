@@ -1,0 +1,3 @@
+# Signal Radar - Python 3.x (Reddit; no Selenium)
+pandas>=2.0.0
+python-dotenv>=1.0.0
